@@ -1,9 +1,9 @@
 # comfortable-qr-generator
 ### QR Code Generator with GPS and Address
 
-![Full information](https://github.com/lambotik/idea/photo_2025-12-30_14-31-33.jpg)
+![Full information](https://github.com/lambotik/comfortable-qr-generator/blob/main/idea/photo_2025-12-30_14-31-33.jpg)
 
-![Full information](https://github.com/lambotik/idea/your_visit_card.png)
+![Example QR](https://github.com/lambotik/comfortable-qr-generator/blob/main/idea/your_visit_card.png)
 
 A powerful program for creating stylish QR codes with support for electronic business cards (vCard), GPS coordinates, and addresses. Perfect for businesses, events, and personal use.
 
